@@ -1,2 +1,2 @@
-# prd-tugas-android-dasar
-Tugas pembuatan aplikasi Android Dasar PRD Kelas 07. Silahkan cek bagian pada link berikut: https://github.com/emilhamep/prd-tugas-android-dasar/wiki/Tugas-Android untuk deskripsi tugas lebih lanjut.
+# ToDoList_PRD
+A to-do-list app, created for study purposes (with reference to https://guides.codepath.com/android/Basic-Todo-App-Tutorial)
